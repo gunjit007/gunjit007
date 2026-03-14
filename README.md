@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am just a kid, my life is a nightmare.
+I am just a kid.
 
 
 # 💻 Tech Stack:
